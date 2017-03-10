@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bl": "^1.2.0",
+    "hyperquest": "^2.1.2",
+    "vimdebug": "^1.0.0"
+  }
+}
